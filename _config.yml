@@ -5,9 +5,9 @@ title                    : "Fida Ur Rahman"
 title_separator          : "-"
 name                     : &name "Fida Ur Rahman"
 description              : &description "AI-focused Software Engineering graduate | Android & AI Developer"
-url                      : https://fidaurrahman.github.io
-baseurl                  : ""
-repository               : "fidaarahman/fidaurrahman.github.io"
+url                      :https://fidaarahman.github.io
+baseurl: ""
+repository: "fidaarahman/fidaarrahman.github.io"
 
 # Site Author (Sidebar Profile)
 author:
