@@ -11,35 +11,62 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Software Engineering, [Your University Name], [Year]
+  * Focus: Artificial Intelligence, Deep Learning, Computer Vision
+  * GPA: [Your GPA] (if you want to include it)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [Current/Recent Position]: AI & Android Developer
+  * [Company/Organization Name]
+  * Developing AI-powered mobile applications
+  * Implementing deep learning models for real-world applications
+  * Working with computer vision technologies
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [Previous Position if any]
+  * [Company Name]
+  * Key responsibilities and achievements
+  * Technologies used
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**
+  * Python
+  * Java/Kotlin (Android)
+  * C++
+  * [Other languages you know]
+
+* **AI & Machine Learning**
+  * Deep Learning (TensorFlow, PyTorch, Keras)
+  * Computer Vision (OpenCV)
+  * Neural Networks
+  * Model Training and Optimization
+
+* **Mobile Development**
+  * Android SDK
+  * Android Jetpack
+  * Material Design
+  * Firebase
+
+* **Tools & Technologies**
+  * Git/GitHub
+  * Android Studio
+  * Jupyter Notebooks
+  * Docker
+  * [Other tools]
+
+Projects
+======
+* **[Project Name 1]**
+  * Description of what the project does
+  * Technologies used
+  * Your role and contributions
+  * [Link to GitHub repo if public]
+
+* **[Project Name 2]**
+  * Description
+  * Technologies
+  * Achievements
 
 Publications
 ======
@@ -47,18 +74,19 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Certifications
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* [Any certifications you have]
+* [Online courses completed]
+
+Languages
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* English - [Proficiency level]
+* Urdu - [Proficiency level]
+* [Any other languages]
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Any volunteer work, club memberships, or leadership roles]
+* [Open source contributions]
+* [Community involvement]
